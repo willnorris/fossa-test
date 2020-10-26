@@ -1,0 +1,21 @@
+PODS:
+  - Bolts (1.9.1):
+    - Bolts/AppLinks (= 1.9.1)
+    - Bolts/Tasks (= 1.9.1)
+  - Bolts/AppLinks (1.9.1):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.9.1)
+
+DEPENDENCIES:
+  - Bolts
+
+SPEC REPOS:
+  trunk:
+    - Bolts
+
+SPEC CHECKSUMS:
+  Bolts: 8c1e8aab2f603387b8b9924f57d1d64f43d3ffdc
+
+PODFILE CHECKSUM: 40216c85ef6666dca1639276b680b7f81eeb219d
+
+COCOAPODS: 1.10.0

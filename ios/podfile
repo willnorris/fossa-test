@@ -1,0 +1,4 @@
+platform :ios, '10.0'
+workspace 'Project.xcworkspace'
+
+pod 'Bolts'
